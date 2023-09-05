@@ -11,3 +11,4 @@ npm run dev
 
 - Didn't add an state management library (like Pinia), didn't consider it necessary for this project.
 - Didn't add docker.
+- Didn't use any hooks either.
